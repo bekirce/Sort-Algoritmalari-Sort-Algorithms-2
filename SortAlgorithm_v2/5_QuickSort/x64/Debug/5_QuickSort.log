@@ -1,0 +1,4 @@
+﻿  Main_QuickSort.cpp
+c:\users\90541\source\c++\cpp_exercises\exercises_1\5_quicksort\main_quicksort.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\90541\source\c++\cpp_exercises\exercises_1\5_quicksort\main_quicksort.cpp(69): warning C4717: 'QuickSort': recursive on all control paths, function will cause runtime stack overflow
+  5_QuickSort.vcxproj -> C:\Users\90541\source\C++\Cpp_Exercises\Exercises_1\x64\Debug\5_QuickSort.exe

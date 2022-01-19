@@ -1,0 +1,3 @@
+﻿  Main_HeapSort.cpp
+c:\users\90541\source\c++\cpp_exercises\exercises_1\6_heapsort\main_heapsort.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  6_HeapSort.vcxproj -> C:\Users\90541\source\C++\Cpp_Exercises\Exercises_1\x64\Debug\6_HeapSort.exe

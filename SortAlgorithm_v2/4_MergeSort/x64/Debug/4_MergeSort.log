@@ -1,0 +1,5 @@
+﻿  Main_MergeSort.cpp
+c:\users\90541\source\c++\cpp_exercises\exercises_1\4_mergesort\main_mergesort.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\90541\source\c++\cpp_exercises\exercises_1\4_mergesort\main_mergesort.cpp(29): warning C4101: 'len_left': unreferenced local variable
+c:\users\90541\source\c++\cpp_exercises\exercises_1\4_mergesort\main_mergesort.cpp(29): warning C4101: 'len_right': unreferenced local variable
+  4_MergeSort.vcxproj -> C:\Users\90541\source\C++\Cpp_Exercises\Exercises_1\x64\Debug\4_MergeSort.exe

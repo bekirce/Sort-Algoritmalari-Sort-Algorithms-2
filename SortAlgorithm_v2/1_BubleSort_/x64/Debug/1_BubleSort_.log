@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (1_BubleSort_.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main_BubleSort.cpp
+c:\users\90541\source\c++\cpp_exercises\exercises_1\1_bublesort_\main_bublesort.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  1_BubleSort_.vcxproj -> C:\Users\90541\source\C++\Cpp_Exercises\Exercises_1\x64\Debug\1_BubleSort.exe
